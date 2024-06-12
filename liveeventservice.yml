@@ -1,0 +1,26 @@
+liveeventservice:
+  message: "Welcome to my live streaming liveeventservice related local APIs"
+  contactDetails:
+    name: "Samuel Mbanisi -Developer"
+    email: "mbanisisamuel@gmail.com"
+  onCallSupport:
+    - (+234)8024789528
+    - (+234)8101022631
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5434/liveeventdb
+    username: postgres
+    password: root
+  jpa:
+    show-sql: false
+    hibernate:
+      ddl-auto: create-drop
+  sql:
+    init:
+      mode: always
+
+cloudinary:
+  name: djzlwrhxq
+  api_key: 573365532252546
+  secret: Yi-fYwkJtn7Mu0B0I-py7O3gqvU

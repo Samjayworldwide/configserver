@@ -1,0 +1,13 @@
+paymentservice:
+  message: "Welcome to my live streaming paymentservice related local APIs"
+  contactDetails:
+    name: "Samuel Mbanisi -Developer"
+    email: "mbanisisamuel@gmail.com"
+  onCallSupport:
+    - (+234)8024789528
+    - (+234)8101022631
+
+paypal:
+  client-id: AeF-PGC8JABg1zW-OQCZfcSg8_P6B83I8vBa7vhOexbQ4iGOpSeUlERKJrAsx8kumeSZOEReW8U-lco8
+  client-secret: EDOjpYSXPwhJ5x_qDe398k7Zga567gUka6tIFlA_YocypIAWedePixfpzVbeawDSzBfAHChVkY3zGNrP
+  mode: sandbox

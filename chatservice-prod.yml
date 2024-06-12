@@ -1,0 +1,8 @@
+chatservice:
+  message: "Welcome to my live streaming chatservice related prod APIs"
+  contactDetails:
+    name: "Samuel Mbanisi -product owner"
+    email: "mbanisisamuel@gmail.com"
+  onCallSupport:
+    - (+234)8024789528
+    - (+234)8101022631
